@@ -13,3 +13,6 @@ def callPhrase
   puts phrase
   puts phrase
   puts phrase
+end 
+
+callPhrase
